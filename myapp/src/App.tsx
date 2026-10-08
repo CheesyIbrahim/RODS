@@ -22,10 +22,8 @@ let people: Person[] = [
     { name: "Jane", age: 28, isTeacher: false },
     { name: "Sam", age: 42, isTeacher: false },
   ];
-
- return "Hello World!";
+return Person;
 }
-
 class Person {
   name!: string;
   age!: number;
