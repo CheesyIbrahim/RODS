@@ -13,6 +13,7 @@
   "dependencies": {
     "compression": "^1.8.1",
     "express": "^5.2.1",
+    "papaparse": "^5.7.0",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
     "sirv": "^3.0.2"
@@ -20,6 +21,7 @@
   "devDependencies": {
     "@types/express": "^5.0.6",
     "@types/node": "^26.5.0",
+    "@types/papaparse": "^5.5.2",
     "@types/react": "^19.2.18",
     "@types/react-dom": "^19.2.7",
     "@vitejs/plugin-react": "^6.1.1",
